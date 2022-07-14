@@ -10,5 +10,7 @@ Because the unsupervised clustering and cell type identification were originally
 
 
 R version: 4.1.3
+
 Bioconductor version: 3.14
-All library packages are up-to-date for said versions.
+
+All library packages are up-to-date for said R and Bioconductor versions.
